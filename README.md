@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YazidRB
-- 👀 I’m interested in software engineering
+- 👀 software engineering
 - 🌱 I’m currently learning in university 
-- 📫 How to reach me yazid.rabah.b@gmail.com
+- 📫 How to reach me : yazid.rabah.b@gmail.com
 
 <!---
 YazidRB/YazidRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
