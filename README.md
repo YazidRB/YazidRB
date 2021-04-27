@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YazidRB
-- 👀 software engineering
+- 👀 software engineering & Web Dev 
 - 🌱 I’m currently learning in university 
 - 📫 How to reach me : yazid.rabah.b@gmail.com
 
