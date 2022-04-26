@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @YazidRB
-- 👀 software engineering & Web Dev 
-- 🌱 I’m currently learning in university 
-- 📫 How to reach me : yazid.rabah.b@gmail.com
-
-<!---
-YazidRB/YazidRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+</div>
